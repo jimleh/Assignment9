@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TDDBank/TDDBank/bin/Debug
+/TDDBank/TDDBank/obj/Debug
+/TDDBank/TDDBank.Test/bin/Debug
+/TDDBank/TDDBank.Test/obj/Debug
+*.suo
